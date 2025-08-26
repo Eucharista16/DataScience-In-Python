@@ -20,7 +20,9 @@ This repository contains the **Data Science Internship Project** developed using
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn  
-- Google Colab  
+- Google Colab
+  
+---
 
 ## 📂 **Repository Structure**  
 
@@ -28,21 +30,26 @@ This repository contains the **Data Science Internship Project** developed using
 ├── README.md # Project documentation
 └── data/ # (Optional) dataset files if included
 
+---
+
 ## 📖 **How to Use**  
 1. Clone the repository:
    
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    
-Open the notebook in Google Colab or Jupyter:
+2. Open the notebook in Google Colab or Jupyter:
 
-Colab: Upload directly to Google Colab
+   Colab: Upload directly to Google Colab
 
-Jupyter:
-jupyter notebook DataScience_Internship.ipynb
-Run each cell step by step to reproduce the results.
+   Jupyter:
+   jupyter notebook DataScience_Internship.ipynb
+   
+3. Run each cell step by step to reproduce the results.
 
-Notes
+---
+
+## **Notes**
 
 If the notebook does not render properly on GitHub, open it in nbviewer
 
@@ -51,5 +58,4 @@ Make sure to install required libraries before running:
    pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-## 📂 **Repository Structure**  
 
