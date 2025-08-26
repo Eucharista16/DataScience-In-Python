@@ -1,9 +1,10 @@
 # DataScience-In-Python
-📊 Data Science Internship Project
-
+📊** Data Science Internship Project
+**
 This repository contains the Data Science Internship Project developed using Google Colab. The notebook demonstrates data analysis, visualization, and modeling techniques as part of the internship tasks.
 
-🚀 Features
+
+🚀** Features**
 
 Exploratory Data Analysis (EDA)
 
@@ -15,7 +16,8 @@ Machine Learning models for prediction
 
 Evaluation of results
 
-🛠️ Technologies Used
+
+🛠️ **Technologies Used**
 
 Python 3
 
@@ -27,14 +29,15 @@ Scikit-learn
 
 Google Colab
 
-📂 Repository Structure
+
+📂 **Repository Structure**
 .
 ├── DataScience_Internship.ipynb   # Main Colab Notebook
 ├── README.md                      # Project documentation
 └── data/                          # (Optional) dataset files if included
 
 
-📖 How to Use
+📖** How to Use**
 
 Clone the repository:
 
@@ -52,7 +55,7 @@ jupyter notebook DataScience_Internship.ipynb
 Run each cell step by step to reproduce the results.
 
 
-📌 Notes
+📌 **Notes**
 
 If the notebook does not render properly on GitHub, open it in nbviewer
 .
