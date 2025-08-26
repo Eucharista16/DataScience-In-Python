@@ -27,7 +27,9 @@ This repository contains the **Data Science Internship Project** developed using
 ## 📂 **Repository Structure**  
 
 ├── DataScience_Internship.ipynb # Main Jupiter Notebook
+
 ├── README.md # Project documentation
+
 └── data/ # (Optional) dataset files if included
 
 ---
